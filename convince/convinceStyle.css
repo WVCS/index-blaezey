@@ -1,0 +1,28 @@
+ul.nav {
+  list-style-type: none;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #antiquewhite;
+  margin: 0;
+  padding: 0;
+}
+
+li.nav {
+  display: inline;
+  padding: 20px;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: gold;
+  font-size: 130%;
+}
+
+li a:hover {
+  background-color: #FFF;
+  color: yellow;
+  font-size: 20px;
+}
