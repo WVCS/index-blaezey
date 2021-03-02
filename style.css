@@ -30,11 +30,14 @@ div.sticky {
   position: sticky;
 }
 
-footer {
-  background-color: #F44336;
-  height: 60px;
+
+div.footer {
+  background-color: #f44336;
+  row-padding: 10px;
+  border: 1px solid orange;
   padding: 10px;
-  border: 3px solid orange;
+  color: white;
+  font-size: 15px;
 }
 
 h4 {
