@@ -34,6 +34,19 @@ div.sticky {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80;
+  width: 80%;
 }
 
+div.half {
+  float: left;
+  width: 48%;
+  margin: 1%;
+  height: 360px;
+  background-color: #98FB98;
+  border: 2px solid green;
+}
+
+p.text {
+  font-size: 23px;
+  margin: 10px;
+}
